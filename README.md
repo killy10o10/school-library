@@ -25,7 +25,7 @@
 - cd `school-librabry`
 - run `bundle install`
 - run `rubocop .` to check for linters
-- run `ruby list.rb` to run program
+- run `ruby school-library.rb` to run program
 
 ## Author
 
