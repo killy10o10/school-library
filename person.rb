@@ -24,10 +24,10 @@ class Person < Nameable
   private :of_age?
 
   def can_use_services?
-    is_of_age? || @parent_permission
+    of_age? || @parent_permission
   end
 
-  def of_age
+  def correct_name
     @name
   end
 end
