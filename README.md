@@ -8,6 +8,10 @@
 
 - Ruby
 
+## Uses
+
+> This app allows students and teachers to rent books from the library.
+
 ## Pre-requisites
 
 - You need to have Ruby installed on your local machine
