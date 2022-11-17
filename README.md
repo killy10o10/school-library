@@ -39,6 +39,12 @@
 - Twitter: [@Quami_Killy](https://twitter.com/Quami_Killy)
 - LinkedIn: [@Kingsley Okine](https://www.linkedin.com/in/kingsley-okine/)
 
+👤 **Shaquille Ndunda**
+
+- GitHub: [@shaqdeff](https://github.com/shaqdeff)
+- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
+- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
