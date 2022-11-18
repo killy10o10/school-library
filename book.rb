@@ -12,4 +12,11 @@ class Book
   def add_rental(date, person)
     Rental.new(date, self, person)
   end
+
+  def as_json()
+    {
+      title: @title,
+      author: @author
+    }
+  end
 end

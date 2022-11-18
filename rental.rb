@@ -16,4 +16,13 @@ class Rental
 
     book.rentals << self
   end
+
+  def as_json()
+    {
+      person_id: @person.id,
+      date: @date,
+      book_title: @book.title,
+      book_author: @book_author
+    }
+  end
 end
