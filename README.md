@@ -31,13 +31,19 @@
 - run `rubocop .` to check for linters
 - run `ruby school-library.rb` to run program
 
-## Author
+## Authors
 
 👤 **Okine Kingsley**
 
 - GitHub: [@killy10o10](https://github.com/killy10o10)
 - Twitter: [@Quami_Killy](https://twitter.com/Quami_Killy)
 - LinkedIn: [@Kingsley Okine](https://www.linkedin.com/in/kingsley-okine/)
+
+👤 **Shaquille Ndunda**
+
+- GitHub: [shaqdeff](https://github.com/shaqdeff)
+- Twitter: [@shaquillendunda](https://twitter.com/shaquillendunda)
+- LinkedIn: [Shaquille Ndunda](https://www.linkedin.com/in/shaquille-ndunda-b13a95107/)
 
 ## 🤝 Contributing
 
